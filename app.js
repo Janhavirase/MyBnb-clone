@@ -79,7 +79,15 @@ app.use("/listings",listingRouter);
 app.use("/listings/:id/reviews",ReviewRouter);
 app.use("/",userRouter);
 
+jggjgjjg
+gjjgjgj
+jgjgjg
+gjjgjgjgjg
+jgjgjg
 
+
+
+ggngn
 
 app.use((req,res,next)=>{
   next(new ExpressError(404,"Page not Found!"));
@@ -92,13 +100,6 @@ app.use((err,req,res,next)=>{
   res.status(statusCode).render("error.ejs",{message});
 })
 
-123455668888888
-78787877878787
-89898998989
-909090909
-6666666
-444444
-66543322
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
