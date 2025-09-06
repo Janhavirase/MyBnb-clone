@@ -79,15 +79,9 @@ app.use("/listings",listingRouter);
 app.use("/listings/:id/reviews",ReviewRouter);
 app.use("/",userRouter);
 
-jggjgjjg
-gjjgjgj
-jgjgjg
-gjjgjgjgjg
-jgjgjg
 
 
 
-ggngn
 
 app.use((req,res,next)=>{
   next(new ExpressError(404,"Page not Found!"));
