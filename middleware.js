@@ -17,19 +17,6 @@ module.exports.validateReview=(req,res,next)=>{
 
 
 
-hjfhjdhdhdfhdhjdfjhdf
-fdhhdfhjhfd
-bfbfb
-fhrhr
-ytyty
-rurur
-iyiyi
-sbsbs
-wttw
-
-
-
-
 
 
 
