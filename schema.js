@@ -21,6 +21,3 @@ module.exports.reviewSchema = Joi.object({
     }).required()
 });
 
-
-scheam        hiuiuiuiuiuiu
-jhjhbjhbjy
