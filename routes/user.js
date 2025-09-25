@@ -56,5 +56,4 @@ req.logout((err)=>{
 module.exports=router;
 
 
-ooooooooooooooooooooo
 
