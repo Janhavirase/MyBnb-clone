@@ -18,7 +18,7 @@
 
 
 
-i had wriiten the script is it all sone or something is remainnnn
+
 
 
 
